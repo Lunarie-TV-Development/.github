@@ -18,11 +18,11 @@ Möchten Sie Teil der Lunarie.TV-Community werden? Hier sind einige Möglichkeit
 
 - **Minecraft-Server**: Treten Sie unserem Server bei und werden Sie Teil unserer wachsenden Community.
 - **Beitragen**: Möchten Sie zum Server beitragen? Überprüfen Sie unsere [Contributing Guidelines](CONTRIBUTING.md), um herauszufinden, wie Sie helfen können.
-- **Feedback geben**: Haben Sie Ideen oder Vorschläge, wie wir den Server verbessern können? Teilen Sie Ihr Feedback mit uns in unserem [Discord-Server](https://discord.gg/lunarie).
+- **Feedback geben**: Haben Sie Ideen oder Vorschläge, wie wir den Server verbessern können? Teilen Sie Ihr Feedback mit uns in unserem [Discord-Server](https://dcs.gg/lunarie).
 
 ## Ressourcen
 
-- **Discord**: Treten Sie unserem Discord-Server bei, um mit anderen Spielern zu chatten, Updates zu erhalten und an Community-Veranstaltungen teilzunehmen: [Lunarie Discord](https://discord.gg/lunarie)
+- **Discord**: Treten Sie unserem Discord-Server bei, um mit anderen Spielern zu chatten, Updates zu erhalten und an Community-Veranstaltungen teilzunehmen: [Lunarie Discord](https://dcs.gg/lunarie)
 - **Webseite**: Besuchen Sie unsere offizielle Webseite für weitere Informationen und Updates: [Lunarie.TV](https://lunarie.tv)
 
 ## Unterstützung
